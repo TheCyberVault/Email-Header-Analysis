@@ -12,11 +12,17 @@
 - **What You Do**: Punch in `microsoftsubscription4838246@gmail.com` and let it rip.
 - **What You're Looking For**: You're hoping to see if this email is legit or just digital junk mail. The results are your first clue.
 
+![centralops](https://github.com/TheCyberVault/Email-Header-Analysis/assets/141572056/b9332e21-1433-438d-9ee4-b37d7e91032c)
+
+
 #### Task 2: Reverse Lookup – Who Are You Really?
 
 - **Your Mission**: Next stop, [That'sThem Reverse Email Lookup](https://thatsthem.com/reverse-email-lookup). It's like looking up a phone number in an old phone book, but for email.
 - **What You Do**: Enter the mysterious email address and search.
 - **What You're Looking For**: Ideally, you'd find a real person tied to this email. But if it comes back empty, that's another point for Team Suspicious.
+
+![reverse lookup](https://github.com/TheCyberVault/Email-Header-Analysis/assets/141572056/9759aa95-a366-486c-b29c-7ebd4e43766a)
+
 
 #### Task 3: Reputation Check – Are You Trustworthy?
 
@@ -24,17 +30,29 @@
 - **What You Do**: Submit the email and see what the digital world thinks of it.
 - **What You're Looking For**: Is this email the digital equivalent of a knight in shining armor or a sketchy character from a back alley? The rep score will tell.
 
+![image](https://github.com/TheCyberVault/Email-Header-Analysis/assets/141572056/719a8033-3150-4485-bcbe-99f92852ac2e)
+
+
 #### Task 4: Breach Check – Have You Been Around?
 
 - **Your Mission**: Drop by [';--have i been pwned?](https://haveibeenpwned.com). It's like finding out if someone's been gossiping about you in places they shouldn't.
 - **What You Do**: Type in the email and cross your fingers.
 - **What You're Looking For**: You're hoping this email hasn't been caught up in any digital scandals. If it's clean, that's a good sign.
 
+![image](https://github.com/TheCyberVault/Email-Header-Analysis/assets/141572056/4eaa4415-7775-49ae-9859-2e6dac818046)
+
+
 #### Task 5: Header Analysis – Tracing the Digital Footsteps
 
 - **Your Mission**: Head over to [MXToolbox](https://mxtoolbox.com/Public/Tools/EmailHeaders.aspx) for some serious detective work. This is where you put on your digital detective hat and trace the email's journey.
 - **What You Do**: Paste the email's header and analyze.
+
+![image](https://github.com/TheCyberVault/Email-Header-Analysis/assets/141572056/89d5bb76-eab6-43b6-bddd-cbd62e50026d)
+
 - **What You're Looking For**: This is like mapping the email's road trip across the internet. Any weird detours or shady stops? That's what you need to note.
+
+![image](https://github.com/TheCyberVault/Email-Header-Analysis/assets/141572056/f476b07f-92c8-4b5b-b0be-7a8c6377e46e)
+
 
 #### Task 6: WHOIS Lookup – Who's Behind the Curtain?
 
