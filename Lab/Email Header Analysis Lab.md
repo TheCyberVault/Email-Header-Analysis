@@ -48,28 +48,42 @@
 - **What You Do**: Paste the email's header and analyze.
 
 ![image](https://github.com/TheCyberVault/Email-Header-Analysis/assets/141572056/89d5bb76-eab6-43b6-bddd-cbd62e50026d)
+![image](https://github.com/TheCyberVault/Email-Header-Analysis/assets/141572056/ad9af1e4-effd-4ab2-8906-e5a813ccdc38)
 
 - **What You're Looking For**: This is like mapping the email's road trip across the internet. Any weird detours or shady stops? That's what you need to note.
-
-![image](https://github.com/TheCyberVault/Email-Header-Analysis/assets/141572056/f476b07f-92c8-4b5b-b0be-7a8c6377e46e)
-
 
 #### Task 6: WHOIS Lookup – Who's Behind the Curtain?
 
 - **Your Mission**: Visit [whois.com/whois](https://whois.com/whois) for a bit of digital stalking (the legal kind, of course). You're looking up the domain found in the email's header.
 - **What You Do**: Type in the domain and hit search.
+
+![image](https://github.com/TheCyberVault/Email-Header-Analysis/assets/141572056/a451fce2-9f73-4c2b-8250-7aa58324d090)
+![image](https://github.com/TheCyberVault/Email-Header-Analysis/assets/141572056/d8e1dbbb-d2b8-4e79-b0cb-9c42badb5e7a)
+
+
 - **What You're Looking For**: This tells you who owns the domain. If it's someone reputable, great! If not, add it to the suspicion pile.
+
+![image](https://github.com/TheCyberVault/Email-Header-Analysis/assets/141572056/076415ce-80af-4429-964d-a8f6ef4b9744)
+
 
 #### Task 7: IP Deep Dive – Where in the World?
 
 - **Your Mission**: Time for a geography lesson with [ARIN](https://arin.net). You're checking out the IP address from the email header to see where it really came from.
-- **What You Do**: Enter the IP address and start the search.
+- **What You Do**: Enter the IP address 217.138.207.226 and start the search.
 - **What You're Looking For**: This is like pinning the email's location on a giant digital map. Paris, France? Cool, but only if it makes sense.
+
+![image](https://github.com/TheCyberVault/Email-Header-Analysis/assets/141572056/a3e8c761-e670-45a3-aaca-533c465770bb)
+
 
 #### Task 8: Final Check – Pinpointing the Location
 
 - **Your Mission**: Last stop, [IP2Location](https://ip2location.com). You're double-checking the IP's address to get a second opinion on its location.
 - **What You Do**: Input the IP address and look it up.
+
+![image](https://github.com/TheCyberVault/Email-Header-Analysis/assets/141572056/0de57446-a694-4b84-864e-91586075cc01)
+![image](https://github.com/TheCyberVault/Email-Header-Analysis/assets/141572056/99f89c0e-f755-4f98-bb24-0322537be1a1)
+
+
 - **What You're Looking For**: Confirming the email's origin. If everything lines up, great. If not, something's fishy.
 
 ### Wrapping Up
