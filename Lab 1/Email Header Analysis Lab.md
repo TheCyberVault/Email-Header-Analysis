@@ -1,4 +1,4 @@
-## Suspicious Email Investigation: A College Guide
+## Suspicious Email Investigation
 
 ### Getting Started
 
