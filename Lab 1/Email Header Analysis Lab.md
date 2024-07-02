@@ -35,7 +35,7 @@
 
 #### Task 4: Breach Check – Have You Been Around?
 
-- **Your Mission**: Drop by [';--have i been pwned?](https://haveibeenpwned.com). It's like finding out if someone's been gossiping about you in places they shouldn't.
+- **Your Mission**: Drop by [have i been pwned?](https://haveibeenpwned.com). It's like finding out if someone's been gossiping about you in places they shouldn't.
 - **What You Do**: Type in the email and cross your fingers.
 - **What You're Looking For**: You're hoping this email hasn't been caught up in any digital scandals. If it's clean, that's a good sign.
 
